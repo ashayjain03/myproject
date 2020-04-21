@@ -1,0 +1,20 @@
+#top {
+	color: red;
+	border: 3px solid black;
+	padding: 15px;
+	text-align: center;
+	background: lightblue;
+	background-clip: content-box;
+}
+#middle {
+	color: blue;
+	text-align: center;
+}
+#bottom {
+	color: magenta;
+	text-align: center;
+}
+.name {
+	color: green;
+	font-weight: bold;
+}
